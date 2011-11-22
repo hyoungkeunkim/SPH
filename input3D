@@ -1,5 +1,5 @@
 0                       Choose Starting options:  0=new, 1=restart, 2=new with CheckPointg, 3=restart with CheckPointing
-3                       Kernel: 1=gaussian, 2=quadratic; 3=cubic; 5=Wendland
+5                       Kernel: 1=gaussian, 2=quadratic; 3=cubic; 5=Wendland
 1                       Time-stepping algorithm: 1=predictor-corrector, 2=verlet, 3=symplectic, 4=Beeman
 2                       Density Filter: 0=none, 1=Shepard filter, 2=MLS
 30                       ndt_FilterPerform (if density filter is used) ?
